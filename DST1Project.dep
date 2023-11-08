@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+    <fileVersion>5</fileVersion>
+    <fileChecksum>2495506799</fileChecksum>
+    <configuration>
+        <name>Debug</name>
+        <outputs>
+            <file>$PROJ_DIR$\Debug\Obj\cstartup.o.rsp</file>
+            <file>$PROJ_DIR$\..\..\DST1_Project\Display.h</file>
+            <file>$PROJ_DIR$\..\..\DST1_Project\Records.h</file>
+            <file>$PROJ_DIR$\..\..\DST1_Project\delay.h</file>
+            <file>$PROJ_DIR$\..\..\DST1_Project\Photosensor.h</file>
+            <file>$PROJ_DIR$\..\..\DST1_Project\Timestamp.c</file>
+            <file>$PROJ_DIR$\..\..\DST1_Project\Timestamp.h</file>
+            <file>$PROJ_DIR$\..\..\DST1_Project\my_lib.c</file>
+            <file>$PROJ_DIR$\..\..\DST1_HW\main.c</file>
+            <file>$PROJ_DIR$\..\..\DST1_Project\Records.c</file>
+            <file>$PROJ_DIR$\..\..\DST1_Project\Keypad.c</file>
+            <file>$PROJ_DIR$\..\..\DST1_Project\main.c</file>
+            <file>$PROJ_DIR$\..\..\DST1_Project\Keypad.h</file>
+            <file>$PROJ_DIR$\..\..\DST1_Project\Display.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\Downloads\ProjektFranNicho\main.c</file>
+            <file>$PROJ_DIR$\..\..\DST1_Project\Linkedlist.h</file>
+            <file>$PROJ_DIR$\..\..\DST1_Project\Temperature.h</file>
+            <file>$PROJ_DIR$\..\..\DST1_Project\Linkedlist.c</file>
+            <file>$PROJ_DIR$\..\..\DST1_Project\Temperature.c</file>
+            <file>$PROJ_DIR$\Timestamp.c</file>
+            <file>$PROJ_DIR$\Keypad.h</file>
+            <file>$PROJ_DIR$\Led.c</file>
+            <file>$PROJ_DIR$\Linkedlist.c</file>
+            <file>$PROJ_DIR$\delay.h</file>
+            <file>$PROJ_DIR$\photosensor.h</file>
+            <file>$PROJ_DIR$\delay.c</file>
+            <file>$PROJ_DIR$\Display.h</file>
+            <file>$PROJ_DIR$\Linkedlist.h</file>
+            <file>$PROJ_DIR$\Keypad.c</file>
+            <file>$PROJ_DIR$\cstartup.s</file>
+            <file>$PROJ_DIR$\my_lib.c</file>
+            <file>$PROJ_DIR$\main.c</file>
+            <file>$PROJ_DIR$\Display.c</file>
+            <file>$PROJ_DIR$\Records.c</file>
+            <file>$PROJ_DIR$\exceptions.c</file>
+            <file>$PROJ_DIR$\system_sam3x.c</file>
+            <file>$PROJ_DIR$\Records.h</file>
+            <file>$PROJ_DIR$\photosensor.c</file>
+            <file>$PROJ_DIR$\Servo.c</file>
+            <file>$PROJ_DIR$\Led.h</file>
+            <file>$PROJ_DIR$\Temperature.c</file>
+            <file>$PROJ_DIR$\Servo.h</file>
+            <file>$PROJ_DIR$\startup_sam3x.c</file>
+            <file>$PROJ_DIR$\Temperature.h</file>
+            <file>$PROJ_DIR$\Timestamp.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\aarch32\cmsis_iar.h</file>
+            <file>$PROJ_DIR$\core_cmInstr.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Product.h</file>
+            <file>$PROJ_DIR$\exceptions.h</file>
+            <file>$TOOLKIT_DIR$\lib\dl7M_tln.a</file>
+            <file>$PROJ_DIR$\Debug\Obj\exceptions.o</file>
+            <file>$TOOLKIT_DIR$\inc\c\ysizet.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\Timestamp.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\Temperature.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\my_lib.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\main.o</file>
+            <file>$PROJ_DIR$\Debug\Exe\DST1Project.out</file>
+            <file>$PROJ_DIR$\core_cm3.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\stdlib.h</file>
+            <file>$TOOLKIT_DIR$\lib\rt7M_tl.a</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Defaults.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Config_Normal.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\aarch32\iccarm_builtin.h</file>
+            <file>$PROJ_DIR$\Debug\List\DST1Project.map</file>
+            <file>$PROJ_DIR$\at91sam3x8.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\yvals.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\Keypad.o</file>
+            <file>$TOOLKIT_DIR$\inc\c\ycheck.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\Display.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\delay.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\Led.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\startup_sam3x.o</file>
+            <file>$PROJ_DIR$\core_cmFunc.h</file>
+            <file>$TOOLKIT_DIR$\lib\m7M_tl.a</file>
+            <file>$TOOLKIT_DIR$\inc\c\stdio.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\Records.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\cstartup.o</file>
+            <file>$TOOLKIT_DIR$\config\linker\Microchip\sam3x8\sram.icf</file>
+            <file>$PROJ_DIR$\system_sam3x.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\Servo.o</file>
+            <file>$TOOLKIT_DIR$\lib\shb_l.a</file>
+            <file>$PROJ_DIR$\Debug\Obj\system_sam3x.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\Linkedlist.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\photosensor.o</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Product_stdlib.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\stdint.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\Downloads\ProjektFranNicho\system_sam3x.c</file>
+            <file>$PROJ_DIR$\..\..\DST1_Project\delay.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\Downloads\ProjektFranNicho\at91sam3x8.h</file>
+        </outputs>
+        <file>
+            <name>[ROOT_NODE]</name>
+            <outputs>
+                <tool>
+                    <name>ILINK</name>
+                    <file> 56 63</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\Timestamp.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 52</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 30 78 85 67 65 60 61 47 57 46 45 62 72 64 58 51 84 74 44 20 27 26 23 43 36 24 39 41</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\Led.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 70</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 30 78 85 67 65 60 61 47 57 46 45 62 72 64 58 51 84 74 44 20 27 26 23 43 36 24 39 41</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\Linkedlist.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 82</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 30 78 85 67 65 60 61 47 57 46 45 62 72 64 58 51 84 74 44 20 27 26 23 43 36 24 39 41</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\delay.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 69</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 30 78 85 67 65 60 61 47 57 46 45 62 72 64 58 51 84 74 44 20 27 26 23 43 36 24 39 41</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\Keypad.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 66</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 30 78 85 67 65 60 61 47 57 46 45 62 72 64 58 51 84 74 44 20 27 26 23 43 36 24 39 41</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\cstartup.s</name>
+            <outputs>
+                <tool>
+                    <name>AARM</name>
+                    <file> 76</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>AARM</name>
+                    <file> 0</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\my_lib.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 54</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 78 85 67 65 60 61 47 57 46 45 62 72 64 58 51 84 74 44 20 27 26 23 43 36 24 39 41</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\main.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 55</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 30 78 85 67 65 60 61 47 57 46 45 62 72 64 58 51 84 74 44 20 27 26 23 43 36 24 39 41</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\Display.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 68</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 30 78 85 67 65 60 61 47 57 46 45 62 72 64 58 51 84 74 44 20 27 26 23 43 36 24 39 41</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\Records.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 75</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 30 78 85 67 65 60 61 47 57 46 45 62 72 64 58 51 84 74 44 20 27 26 23 43 36 24 39 41</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\exceptions.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 50</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 48</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\system_sam3x.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 81</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 64 78 85 67 65 60 61 47 57 46 45 62 72</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\photosensor.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 83</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 30 78 85 67 65 60 61 47 57 46 45 62 72 64 58 51 84 74 44 20 27 26 23 43 36 24 39 41</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\Servo.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 79</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 30 78 85 67 65 60 61 47 57 46 45 62 72 64 58 51 84 74 44 20 27 26 23 43 36 24 39 41</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\Temperature.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 53</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 30 78 85 67 65 60 61 47 57 46 45 62 72 64 58 51 84 74 44 20 27 26 23 43 36 24 39 41</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\startup_sam3x.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 71</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 64 48 57 85 67 65 60 61 47 46 45 62 72</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\Debug\Exe\DST1Project.out</name>
+            <outputs>
+                <tool>
+                    <name>ILINK</name>
+                    <file> 63</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ILINK</name>
+                    <file> 77 76 69 68 50 66 70 82 55 54 83 75 79 71 81 53 52 80 59 73 49</file>
+                </tool>
+            </inputs>
+        </file>
+        <forcedrebuild>
+            <name>[MULTI_TOOL]</name>
+            <tool>ILINK</tool>
+        </forcedrebuild>
+        <forcedrebuild>
+            <name>[REBUILD_ALL]</name>
+        </forcedrebuild>
+    </configuration>
+    <configuration>
+        <name>Release</name>
+        <outputs />
+        <forcedrebuild>
+            <name>[MULTI_TOOL]</name>
+            <tool>ILINK</tool>
+        </forcedrebuild>
+    </configuration>
+</project>
